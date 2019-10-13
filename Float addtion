@@ -1,0 +1,14 @@
+/*
+  Q.1 : Add two float values
+    input :
+    a = 4.1
+    b = 2.1
+    
+    output:
+    result = 6.20
+    
+    Note : upto max 2 decimal values
+    
+
+
+*/
