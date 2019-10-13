@@ -1,0 +1,18 @@
+/*
+  Q.1 : Make a funcation name update which perform following calculation. 
+  
+      INPUT :
+      two integer input 
+      a = 4;
+      b = 5;
+      
+      output :
+      a = a + b;
+      b = |a -b |; // this is absolute value.
+      
+      hence,
+      a = 9;
+      b = 1;
+      
+
+*/
