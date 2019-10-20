@@ -12,3 +12,17 @@
 
 
 */
+#include <stdio.h>
+
+
+int main()
+{
+    float x,y,c;
+	printf("ENTER Two NUMBERS\n");
+	scanf("%f %f",&x,&y);
+    
+    c=x+y;
+    printf("RESULt=%.2f",c);
+    
+return 0;
+}
