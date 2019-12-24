@@ -1,7 +1,7 @@
 /* 
 
   Copy String :
-  
+  vivek
     char * MyStrcpy(destination,source)
     
     i.e 
